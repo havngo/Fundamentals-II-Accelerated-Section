@@ -1,8 +1,8 @@
 # Fundamentals-II-Accelerated-Section
-Northeastern University - Khoury College of Computer Science 
+Northeastern University
+Khoury College of Computer Science 
 
 Spring 2022 
-
 Fundamentals II Introduction to Class-based Program Design 
 
 “Think first, experiment later.”
