@@ -1,4 +1,3 @@
-/*
 import tester.Tester;
 
 // a piece of media
@@ -136,7 +135,7 @@ class ExamplesMedia {
   IMedia tv1 = new TVEpisode("Friends", "The Last One", 10, 17, new ConsLoString("English", new ConsLoString("German", new MtLoString())));
   IMedia tv2 =  new TVEpisode("The Simpsons", "Who Shot Mr. Buns", 6, 25, new ConsLoString("English", new MtLoString()));
 
-  IMedia yt1 = new YTVideo("Dijkstra’s Algorithm", "Computer Science", new MtLoString());
+  IMedia yt1 = new YTVideo("Dijkstraâ€™s Algorithm", "Computer Science", new MtLoString());
   IMedia yt2 = new YTVideo("Don't be a programmer", "Joma Tech", new ConsLoString("Java", new ConsLoString("Racket", new ConsLoString("C++", new MtLoString()))));
   
   boolean testIsReallyOld(Tester t) {
@@ -162,10 +161,6 @@ class ExamplesMedia {
   
 
 }
-
-
-
- */
 
 
 
